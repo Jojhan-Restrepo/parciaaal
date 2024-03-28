@@ -1,0 +1,2 @@
+# parciaaal
+ parcial 1
